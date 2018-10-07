@@ -20,7 +20,17 @@
     "nodemon": "^1.11.0"
   },
   "dependencies": {
+    "@material-ui/core": "^3.1.2",
+    "@material-ui/icons": "^3.0.1",
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
     "express": "^4.15.4",
-    "if-env": "^1.0.4"
+    "fullcalendar": "^3.9.0",
+    "fullcalendar-reactwrapper": "^1.0.7",
+    "if-env": "^1.0.4",
+    "jquery": "^3.3.1",
+    "material-ui": "^0.20.2",
+    "mongoose": "^5.3.1",
+    "react-router-dom": "^4.3.1"
   }
 }
